@@ -1,3 +1,4 @@
+#This is only for people who cannot understand R. Beacuse of numerical accuracy, it is not fully coincident with R code
 import pandas as pd
 import numpy as np
 import scipy.stats
