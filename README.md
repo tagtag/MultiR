@@ -4,7 +4,7 @@ This is a R code to perform the analysis in our paper
 Y-h. Taguchi & Turki Turki
 
 Novel feature selection via kernel tensor decomposition for improved multi-omics data analysis
-https://www.biorxiv.org/content/10.1101/2021.05.21.445049v1
+https://doi.org/10.1186/s12920-022-01181-4
 
 The following files are supporsed to be downloaded to the current working directory from GEO ID GSE161020 & GSE155198
 
